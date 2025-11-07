@@ -1,6 +1,6 @@
 📘 Analysis of Algorithms — Project 1
 
-Author: Saranya Yadlapalli, Dinesh Kollipakla
+Author: Saranya Yadlapalli, Dinesh Kolipakula
 Course: Analysis of Algorithms (AOA) COT 5405 
 Institution: University of Florida
 
